@@ -1,6 +1,6 @@
 //while loop
 const prompt = require("prompt-sync")();
-var x=prompt("please enter a number");
+var x=prompt("please enter a number less than 20");
 
 while (x<20) //looping condition
 {
