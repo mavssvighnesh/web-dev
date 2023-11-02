@@ -1,4 +1,6 @@
-let z=96669; //assigned a value to z 
+const prompt=require("prompt-sync")();
+//taking a user input for the choice 
+let z=prompt("enter a number from following 1.96669 \n 2.98889 \n 3.99999") 
 
 //switch to make a quick skip to the correct block to be executed 
 switch(z){
