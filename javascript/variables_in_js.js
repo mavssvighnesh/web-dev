@@ -1,4 +1,4 @@
-let y=10; 
+let y=10.5; 
 var z=11;
 const x=15; // constant value can't be reassigned 
 var v="vighnesh"; // string value 
