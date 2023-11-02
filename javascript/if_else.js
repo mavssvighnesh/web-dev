@@ -1,4 +1,5 @@
-let x="hello vighnesh";
+const prompt=require("prompt-sync")(); //importing module
+let x=prompt("please enter a text")  //taking a text input from user 
 
 
 // returns true if  x is hello vighnesh 
